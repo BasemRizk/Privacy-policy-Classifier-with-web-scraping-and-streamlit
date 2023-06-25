@@ -1,4 +1,4 @@
-#to run this script open the terminal and run (streamlit run deployment.py)
+#To run this script open the terminal and run (streamlit run deployment.py)
 #This classifier is for english text only
 #Some URLs to try:
 #URL="https://www.edureka.co/privacy-policy"  (Valid privacy policy page)
